@@ -1,0 +1,24 @@
+# Diretórios e Arquivos Específicos para Ignorar em Qualquer Subdiretório
+
+# Node.js
+**/node_modules/
+
+# Vercel
+**/.vercel/
+
+# Logs e Temporários
+**/npm-debug.log
+**/yarn-error.log*
+**/logs/
+**/tmp/
+
+# Build e Distribuição
+**/dist/
+**/build/
+**/out/
+**/coverage/
+
+# Variáveis de Ambiente
+**/.env
+**/.env.local
+**/.env.*.local
